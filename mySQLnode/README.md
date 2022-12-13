@@ -1,4 +1,4 @@
-Para esta proyecto aremos uso de las siguientes dependencias:
+Para esta proyecto haremos uso de las siguientes dependencias:
 express 
 express-handlebars
 express-session
